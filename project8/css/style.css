@@ -1,0 +1,26 @@
+body{
+background-color: darkolivegreen;
+margin: 0px;
+padding: 0px;
+}
+.boxes{
+    display: inline-block;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+}
+.img{
+    background-image: url('/test.jpg');
+    position: relative;
+    height: 190px;
+    width: 190px;
+    margin: 5px;
+    /* padding: 5px; */
+}
+.hold{
+    border: solid red 4px;
+}
+.hide{
+    display: none;
+}
